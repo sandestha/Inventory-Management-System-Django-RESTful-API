@@ -1,7 +1,7 @@
 
 # Inventory Management System
 
-This is a REST API for a event management system built using Django REST Framework.
+This is a REST API for a inventory management system built using Django REST Framework.
 
 
 ## Features
