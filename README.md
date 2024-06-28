@@ -20,6 +20,16 @@ This is a REST API for a inventory management system built using Django REST Fra
 | logout/ | Logout user |
 | products/ | Retrieve list of events, search using ?search=, filter using ?category= |
 | products/<id>| Retrieve, update or delete a book|
+|supplier|Retrieve list of suppliers|
+|supplier/<id>|Retrieve, update or delete a supplier|
+|order|Retrieve list of orders|
+|order/<id>|Retrieve, update or delete a order|
+|customer|Retrieve list of customers|
+|customer/<id>|Retrieve, update or delete a customer|
+|warehouse|Retrieve list of warehouses|
+|warehouse/<id>|Retrieve, update or delete a warehouse|
+|shipment|Retrieve list of shipments|
+|shipment/<id>|Retrieve, update or delete a shipment|
 
 
 ## Deployment
